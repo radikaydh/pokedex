@@ -1,0 +1,2 @@
+# pokedex
+tugas buat pokemon
