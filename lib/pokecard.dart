@@ -239,7 +239,7 @@ class DetailPage extends StatelessWidget {
                         style: TextStyle(
                             fontSize: 25,
                             fontWeight: FontWeight.w400,
-                            color: Colors.yellow,
+                            color: Colors.white70,
                             letterSpacing: 1),
                       ),
                       SizedBox(
