@@ -1,2 +1,2 @@
 # pokedex
-tugas buat pokemon
+Tugas Membuat P@kedex
